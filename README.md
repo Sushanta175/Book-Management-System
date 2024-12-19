@@ -1,5 +1,3 @@
-Here's the raw text of the README.md file:
-
 # Book Management System
 
 A RESTful API service built with Go for managing books, featuring complete CRUD operations and MySQL database integration.
